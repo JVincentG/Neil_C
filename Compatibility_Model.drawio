@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T07:46:34.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QIttMfts4OavduAo61AC" version="24.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-20T07:46:45.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3YnquFPDuAK6u6vX_sDS" version="24.7.2" type="github">
   <diagram name="Page-1" id="dJCIhgWivDZiX5F66QXF">
     <mxGraphModel dx="1793" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="hJy6n04feFFa9ogii6yu-32" value="RAM&lt;div&gt;DDR3&lt;/div&gt;&lt;div&gt;- 8GB DDR3 1600 mhz&lt;/div&gt;&lt;div&gt;- 4GB DDR3 800:mhz&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9cpTQ0V9_y5OJmLwlCd-1" value="Compatibility" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="G9cpTQ0V9_y5OJmLwlCd-1" value="Compatibility Project 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
